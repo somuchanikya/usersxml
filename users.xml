@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<Users>
+    <User type="Student">
+        <ID>U001</ID>
+        <Name>Aarav Sharma</Name>
+        <Department>Computer Science</Department>
+        <Email>aarav@example.com</Email>
+        <Phone>9876543210</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>U002</ID>
+        <Name>Dr. Meera Iyer</Name>
+        <Department>Mathematics</Department>
+        <Email>meera@example.com</Email>
+        <Phone>9123456780</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>U003</ID>
+        <Name>Riya Patel</Name>
+        <Department>Electronics</Department>
+        <Email>riya@example.com</Email>
+        <Phone>9988776655</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>U004</ID>
+        <Name>Prof. Arjun Rao</Name>
+        <Department>Physics</Department>
+        <Email>arjun@example.com</Email>
+        <Phone>9090909090</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>U005</ID>
+        <Name>Karan Verma</Name>
+        <Department>Mechanical</Department>
+        <Email>karan@example.com</Email>
+        <Phone>9871234560</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>U006</ID>
+        <Name>Dr. Neha Kapoor</Name>
+        <Department>Chemistry</Department>
+        <Email>neha@example.com</Email>
+        <Phone>9012345678</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>U007</ID>
+        <Name>Sneha Reddy</Name>
+        <Department>Civil</Department>
+        <Email>sneha@example.com</Email>
+        <Phone>9900112233</Phone>
+    </User>
+
+    <User type="Faculty">
+        <ID>U008</ID>
+        <Name>Prof. Vikram Singh</Name>
+        <Department>Biotechnology</Department>
+        <Email>vikram@example.com</Email>
+        <Phone>9887766554</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>U009</ID>
+        <Name>Ananya Das</Name>
+        <Department>Information Technology</Department>
+        <Email>ananya@example.com</Email>
+        <Phone>9776655443</Phone>
+    </User>
+
+    <User type="Student">
+        <ID>U010</ID>
+        <Name>Rahul Nair</Name>
+        <Department>Artificial Intelligence</Department>
+        <Email>rahul@example.com</Email>
+        <Phone>9665544332</Phone>
+    </User>
+</Users>
